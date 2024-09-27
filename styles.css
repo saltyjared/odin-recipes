@@ -29,9 +29,8 @@ a:link {
 }
 
 .social-media {
-    position: fixed;
-    bottom: 20px;
-    margin-left: 42%;
+    margin-top: 20%;
+    text-align: center;
 }
 
 .social-media a {
