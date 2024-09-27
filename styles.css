@@ -1,0 +1,84 @@
+* {
+    font-family: 'Courier New', sans-serif;
+}
+
+a:link {
+    text-decoration: none!important;
+    font-weight: 700;
+}
+
+.title {
+    text-align: center;
+    margin: 30px;
+}
+
+.recipes {
+    background-color: aliceblue;
+    border-radius: 35px;
+    padding: 30px;
+    border: 1px black solid;
+}
+
+.recipes h2 {
+    margin: 30px;
+}
+
+.recipes li {
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.social-media {
+    position: fixed;
+    bottom: 20px;
+    margin-left: 42%;
+}
+
+.social-media a {
+    color: inherit;
+    margin: 20px;
+}
+
+a i{
+    font-size: 30px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    border-radius: 35px;
+    padding: 30px;
+    margin: 30px;
+    border: 1px black solid;
+}
+
+.food-image {
+    height: auto;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.content.description {
+    background-color: rgba(255, 182, 193, 0.537);
+}
+
+.content.ingredients {
+    background-color: lightcyan;
+}
+
+.content.directions {
+    background-color: rgba(144, 238, 144, 0.482);
+}
+
+.back {
+    position: fixed;
+    margin-left: 20px;
+    margin-top: -70px;
+    background-color: rgba(128, 128, 128, 0.427);
+    border-radius: 25px;
+}
